@@ -1,4 +1,4 @@
-# LCD
+## LCD
 
 ```
 sudo apt install -y python3-pip python3-pil python3-numpy git
@@ -48,7 +48,7 @@ cd 1.44inch-LCD-HAT-Code/python
 sudo python3 main.py
 ```
 
-# Keys and Joystick
+## Keys and Joystick
 
 ```
 sudo apt install -y python3-rpi.gpio
