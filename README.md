@@ -1,8 +1,8 @@
 # LCD
 
-*sudo apt install -y python3-pip python3-pil python3-numpy git*
+'''*sudo apt install -y python3-pip python3-pil python3-numpy git*'''
 
-*sudo vim /boot/config.txt* (OR) *sudo vim /boot/firmware/config.txt*
+'''*sudo vim /boot/config.txt*''' (OR) '''*sudo vim /boot/firmware/config.txt*'''
 gpio=6,19,5,26,13,21,20,16=pu
 
 
