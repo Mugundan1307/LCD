@@ -50,6 +50,10 @@ sudo python3 main.py
 
 # Keys and Joystick
 
-```*sudo apt install -y python3-rpi.gpio*```
+```
+sudo apt install -y python3-rpi.gpio
+```
 
-```*vim ~/test_joystick_keys.py*```
+```
+vim ~/test_joystick_keys.py
+```
