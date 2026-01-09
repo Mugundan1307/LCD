@@ -23,7 +23,7 @@ sudo reboot
 ```
 
 ```
-ls -l /dev/spidev
+ls -l /dev/spidev*
 ```
 
 ```
